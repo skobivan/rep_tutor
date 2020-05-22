@@ -7,6 +7,7 @@
 
 using namespace std;
 
+/// Class for zombi
 class Zombi {
 public:
     int x;
